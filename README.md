@@ -1,7 +1,6 @@
 ### Yo
 
-I'm a São Paulo based Data Scientist/ML Engineer currently @[uncover-co](https://github.com/uncover-co)
-working on making marketing investments mensurable and actionable :)
+I'm a São Paulo based Data Scientist/ML Engineer currently @ [Yofi](https://github.com/BotNotOrg)
 
 You can find me on:
 - [Twitter](https://twitter.com/noelveliezer)
